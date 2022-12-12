@@ -1,5 +1,5 @@
 # hello-world
-<bold>My first repository</bold><br>
+<b>My first repository</b><br>
 
 <p>Hi, My name is Robert.</p>
 <p>I’m interested in learning programming and building applications.
